@@ -1,0 +1,29 @@
+
+[
+    {
+        "id": "1",
+        "nama": "Telur",
+        "deskripsi": "Telur maggot dengan kualitas terbaik dan akan di jamin menetas dalam waktu 1 minggu",
+        "foto": "Telur.jpg",
+        "satuan": "gram",
+        "harga": 5000
+        
+    },
+    {
+        "id": "2",
+        "nama": "Fresh Maggot",
+        "deskripsi": "Fresh Maggot dapat di gunakan sebagai pakan ternak seperti bebek, ayam dan ikan untuk sebagai sumper protein",
+        "foto": "Fresh_Maggot.jpg",
+        "satuan": "Kg",
+        "harga": 8000
+    },
+    {
+        "id": "3",
+        "nama": "Pupa Maggot",
+        "deskripsi": "Pupa adalah calon bakal lalat tentara untuk indukan dan akan menetas menjadi lalat dalam waktu kurang dari seminggu",
+        "foto": "Pupa.jpg",
+        "satuan": "ons",
+        "harga": 5000
+    }
+
+]
