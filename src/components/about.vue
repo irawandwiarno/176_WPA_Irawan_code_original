@@ -1,7 +1,7 @@
 <template>
     <div class="row">
         <div class="col-6">
-            <div class=" mt-5">
+            <div class=" my-3">
                 <div class="card shadow-lg">
                     <div class="card-header fw-bold">
                         #About
@@ -21,7 +21,7 @@
             </div>
         </div>
         <div class="col-6">
-            <div class=" my-5 text-end">
+            <div class=" my-3 text-end">
                 <img class="img-thumbnail" id="budidaya" src="../../public/galery/Budidaya.jpg" alt="Budidaya.jpg">
             </div>
         </div>

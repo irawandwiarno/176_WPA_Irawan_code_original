@@ -1,21 +1,25 @@
 <template>
-  <slideBar class="mt-2" />
-  <About />
+  <div class="container bg-light shadow-sm py-3">
+    <slideBar />
+  </div>
+  <div class="container bg-light shadow-sm my-3 rounded">
+    <About />
+  </div>
 
-
+  <SideBar />
 </template>
 
 <script>
 import slideBar from '@/components/slideBar.vue'
-import about from '@/components/about.vue'
 import About from '@/components/about.vue'
+import SideBar from '@/components/sideBar.vue'
 
 export default {
   name: 'HomeView',
   components: {
     slideBar,
-    about,
-    About
+    About,
+    SideBar
   }
 
 }
